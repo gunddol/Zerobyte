@@ -35,8 +35,8 @@ export default function Missions() {
         ))}
       </ul>
       <div className="text-center mt-8">
-        <Link href="/tree">
-          <a className="text-blue-600 underline">나무 성장 페이지로 이동</a>
+        <Link href="/tree" className="text-blue-600 underline">
+          나무 성장 페이지로 이동
         </Link>
       </div>
     </div>
